@@ -18,13 +18,9 @@ Python, often referred to as Py, is a simple yet powerful programming language t
 
 ▶️ How to Run Python Code
 Make sure Python is installed. Then run:
-
 bash
 Copy code
 python filename.py
+
 📁 Python Files
 Python programs are saved with the .py extension. Example:
-
-bash
-Copy code
-hello.py
